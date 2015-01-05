@@ -34,3 +34,8 @@ Contact
 =======
 
 You can reach us any time, *especially for donating species*, at `opensourcemorels@gmail.com <mailto:opensourcemorels@gmail.com>`_.
+
+License
+=======
+
+This work is licensed under a `Creative Commons Attribution 4.0 International License <http://creativecommons.org/licenses/by/4.0/>`_.
